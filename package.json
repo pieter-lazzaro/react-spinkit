@@ -47,8 +47,10 @@
       "lib": "src"
     },
     "files": [
-      "src"
+      "src",
+      "css"
     ],
+    "main": "index.cjsx!",
     "registry": "jspm",
     "configFile": "jspm.config.js",
     "dependencies": {
