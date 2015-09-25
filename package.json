@@ -43,7 +43,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "jspm": {
-    "directories": {},
+    "directories": {
+      "lib": "src"
+    },
+    "files": [
+      "lib"
+    ],
+    "registry": "jspm",
     "configFile": "jspm.config.js",
     "dependencies": {
       "cjsx": "github:chrismcv/plugin-cjsx@^0.1.1",
