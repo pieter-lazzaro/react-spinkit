@@ -47,7 +47,7 @@
       "lib": "src"
     },
     "files": [
-      "lib"
+      "src"
     ],
     "registry": "jspm",
     "configFile": "jspm.config.js",
